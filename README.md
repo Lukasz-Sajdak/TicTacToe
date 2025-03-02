@@ -16,7 +16,7 @@ Features
     -Win detection and restart option
     -Instructions page
     -Simple main menu with start, instructions, and exit options
-![Zrzut ekranu 2025-03-02 110650](https://github.com/user-attachments/assets/583ae1d5-5f59-454a-ba9b-bb5d151aba54)
+![Bez tytułu](https://github.com/user-attachments/assets/13f3a1d6-4307-4073-9360-3b2dc028ecd1)
 
 ------------------------------------------------------
 
