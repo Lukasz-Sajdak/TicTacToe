@@ -1,0 +1,17 @@
+                                                   ISTRUKCJA
+
+
+1     Gracze   dogaduja   sie   kto   zaczyna
+
+2     gracze   stawiaja   swoje 
+znaki   na   zmiane
+
+3     wygrywa   gracz   ktory   ulozy 
+swoje   znaki   w   jednej   linii
+
+4     klikajac   R   zaczynasz   nowa   gre
+
+5     klikajac   Q   wracasz   do   lobby
+
+
+                                                   MILEJ   GRY! 
